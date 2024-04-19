@@ -1,0 +1,33 @@
+.titleContainer {
+    /* display: flex;
+    justify-content: space-around;
+    align-items: center; */
+    text-align: center;
+}
+
+.titleContainer span {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.titleContainer button {
+    margin-left: 5px;
+    padding: 0;
+}
+
+
+
+.list {
+    list-style: none;
+}
+
+.buttonsBox {
+    display: flex;
+    gap: 5px;
+}
+
+.buttonsBox button{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
